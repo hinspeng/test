@@ -1,1 +1,1 @@
-FROM k8s.docker.elastic.co/kibana/kibana:7.12.1
+FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
